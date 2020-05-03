@@ -1,0 +1,35 @@
+.recepeBox{
+    background: #fff;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+    box-shadow: -1px 2px 34px -13px rgba(0,0,0,0.75);
+    text-align: left;
+    overflow: hidden;
+    margin-top: 15px;
+    
+}
+.recepeBoxText{
+text-align: left;
+font-weight: bold;
+margin-left: 10px;
+}
+
+
+
+.recepeButton{
+    background-color: white;
+    border: none;
+    background-color: black;
+    color: wheat;
+    margin-left: 10px;
+
+}
+.recepeButton:hover{
+    cursor: pointer;
+    background-color: seagreen;
+    
+}
+.recepeTitle{
+
+    color: tomato;
+}

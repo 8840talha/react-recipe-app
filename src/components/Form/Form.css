@@ -1,0 +1,22 @@
+.form{
+    margin-bottom: 2rem;
+}
+.form input{
+    text-decoration: none;
+    border:none;
+
+
+}
+.form input:focus{
+    outline: none;
+}
+
+.form button{
+    border: none;
+    background-color: black;
+    color: wheat;
+}
+.form button:hover{
+    background-color: seagreen;
+    cursor: pointer;
+}
